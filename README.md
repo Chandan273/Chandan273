@@ -31,7 +31,7 @@ Got an offer for me? Reach me at: rajansnuriya273@gmail.com
 
 Thanks For Visit
 <h2>Chandan Rajan</h2>
-<br>
+<!-- <img src="https://rajan.com/img/signature-black.png" alt="Chandan-rajan" height="55"> -->
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,react,vue,vuetify,php,laravel,wordpress,mongo,azure,aws,mysql,git,ubuntu,html,css,js)](https://skills.thijs.gg)
 
 <a href="https://ko-fi.com/rajansnuriya273" target="_blank">
