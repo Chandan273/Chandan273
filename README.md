@@ -33,7 +33,7 @@ Thanks For Visit
 <h2>Chandan Rajan</h2>
 <!-- <img src="https://rajan.com/img/signature-black.png" alt="Chandan-rajan" height="55"> -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,react,mongo,azure,was,wordpress,vue,vuetify,php,laravel,mysql,git,ubuntuhtml,css,js)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,react,mongo,azure,aws,wordpress,vue,vuetify,php,laravel,mysql,git,ubuntu,html,css,js)](https://skills.thijs.gg)
 
 <a href="https://ko-fi.com/rajansnuriya273" target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
